@@ -9,7 +9,7 @@ Estudiante de quinto año de Licenciatura en Física en la Universidad de El Sal
 | Repositorio | Qué es |
 |---|---|
 | [majorana-neutrinos-muon-sector](https://github.com/cesarp03/majorana-neutrinos-muon-sector) | Reproducción y actualización de la cota de la masa efectiva muónica de Majorana (MCTP, 2025-2026) |
-| [fisica-computacional](https://github.com/cesarp03/fisica-computacional) | Librería de métodos numéricos y prácticas del curso: integración, EDOs con RK4, Lorenz, dispersión caótica, mapa logístico |
+| [Computational-Physics-FCL1109-2026](https://github.com/jofavalle/Computational-Physics-FCL1109-2026) | Portafolio colaborativo del curso de Física Computacional, con José Valle y Andrés Rivera: librería de métodos numéricos, EDO y EDP, Monte Carlo, y mi seminario sobre el diagrama de bifurcación del mapa logístico |
 | Trabajo de graduación (repositorio privado hasta su publicación) | Comparación bayesiana de los ordenamientos de masa con muestreo anidado (dynesty) |
 
 ### Formación
